@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dictionary practice\dictionary practice\bin\Debug\dictionary practice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dictionary practice\dictionary practice\bin\Debug\dictionary practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dictionary practice\dictionary practice\bin\Debug\dictionary practice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dictionary practice\dictionary practice\obj\Debug\dictionary practice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dictionary practice\dictionary practice\obj\Debug\dictionary practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dictionary practice\dictionary practice\obj\Debug\dictionary practice.pdb
